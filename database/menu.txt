@@ -1,0 +1,359 @@
+JUICE                    700ML
+LEMON                    30
+LEMON GINGER             35
+PAPAYA                   35
+LEMON SALT & SWEET       35
+LEMON PINEAPPLE          40
+LEMON GRAPE              40
+LEMON MINT               40
+WATERMELON               40
+AMLA JUICE               50
+MUSKMELON                50
+PINEAPPLE                50
+LEMON MINT PINEAPPLE     60
+GRAPE                    70
+APPLE                    60
+ORANGE                   70
+MOSAMBI                  60
+FIG                      60
+MANGO                    70
+BEETROOT                 70
+STRAWBWRRY               80
+STAR STRAWBERRY          80
+
+JUICE                    400ML
+ABC                      80
+OBC                      80
+CARROT                   70
+POMEGRANATE              70
+
+SPECIAL JUICES                    500ML
+PINEAPPLE, WATERMELON & GRAPES    80
+WATERMELON & POMEGRANATE          80
+CARROT & ORANGE                   80
+PINEAPPLE & PAPAYA                80
+ORANGE & STRAWBERRY               90
+
+MILKSHAKE (FRUIT + MILK)          500ML
+MUSKMELON                          NA
+PAPAYA SHAKE                       50
+ROSE MILK SHAKE                    50
+HORLICKS SHAKE                     50
+BOOST SHAKE                        60
+BANANA SHAKE                       60
+POMEGRANATE SHAKE                  70
+CHIKKU SHAKE                       70
+FIG SHAKE                          70
+STRAWBERRY SHAKE                   80
+MANGO SHAKE                        80
+APPLE SHAKE                        80
+KIWI SHAKE                         80
+OREO MILKSHAKE                     80
+MIX FRUIT SHAKE                    90
+CARROT SHAKE                       90
+
+MILKSHAKE (FRUIT + MILK)      700ML
+MUSKMELON                      70
+PAPAYA SHAKE                   60
+ROSE MILK SHAKE                60
+HORLICKS SHAKE                 70
+BOOST SHAKE                    70
+BANANA SHAKE                   70
+POMEGRANATE SHAKE              80
+CHIKKU SHAKE                   80
+FIG SHAKE                      80
+STRAWBERRY SHAKE               90
+MANGO SHAKE                    90
+APPLE SHAKE                    90
+KIWI SHAKE                     90
+OREO MILKSHAKE                 90
+MIX FRUIT SHAKE                100
+CARROT SHAKE                   100
+
+SMOOTHE’S                                   350ML
+BANANA & BOOST SHARJAH                       60
+DATES, HONEY & BANANA SHARJAH                70
+BADAM, CASHEW NUT, BOOST & DATES SHARJAH     90
+PISTA, DRY GRAPES, BADAM & BANANA SHARJAH    90
+CHOCO BERRY                                 100
+BUTTER CHOCO                                100
+COFFEE OREO                                 110
+OREO BROWNIE                                110
+MANGO BROWINE                               120
+COFFEES BROWINE                             120
+OREO KITKAT                                 120
+MANGO FOREST                                120
+KITKAT BROWNIE                              120
+
+TENDER COCONUT                             500ML
+TENDER COCONUT SHAKE                        70
+SWEET LIME TENDER                           80
+WATERMELON TENDER                           80
+MUSKMELON TENDER                            80
+STRAWBERRY TENDER                           80
+PINEAPPLE TENDER                            80
+BANANA TENDER                               80
+
+TENDER COCONUT                             700ML
+TENDER COCONUT SHAKE                       90
+SWEET LIME TENDER                          99
+WATERMELON TENDER                          99
+MUSKMELON TENDER                           99
+STRAWBERRY TENDER                          99
+PINEAPPLE TENDER                           99
+BANANA TENDER                              99
+
+FALOODA
+NORMAL FALOODA                  90
+SPL. FALOODA                   110
+DRY FRUITS FALOODA             149
+OREO FALOODA                   110
+KITKAT OREO FALOODA            120
+KAJU KISMIS FALOODA            130
+FRUIT FALOODA                  130
+BADAM FALOODA                  140
+CHOCOLATE FALOODA              150
+MIXED NUTS FALOODA             150
+HONEY NUTS FALOODA             120
+BADAM PISTA FALOODA            120
+BOMBAY FALOODA                 130
+MALABAR FALOODA                130
+KASHMIR FALOODA                140
+
+COFFEE CLASSIC
+COLD COFFEE                    79
+COLD COFFEE WITH ICE CREAM     89
+CHOCOLATE COLD COFFEE          99
+CARAMEL COLD COFFEE            110
+
+ICE CREAM (DOUBLE SCOOP)
+VANILLA                          70
+STRAWBERRY                       75
+CHOCOLATE                        75
+BUTTER SCOTCH                    75
+PISTA                            75
+MANGO                            75
+BLACK CURRENT                    75
+ICREAM FRUIT SALAD               60
+JUICE IN JUG SPL                 99
+
+ICE CREAM MILKSHAKE       400ML
+VANILLA                    70
+STRAWBERRY                 70
+BUTTER SCOTCH              90
+MANGO                      90
+PISTA                      90
+CHOCOLATE                  90
+BLUEBERRY                  90
+FIG. HONEY SHAKE           80
+HONEY DATES                90
+DRY FRUIT SHAKE            110
+BROWNIE SHAKE              110
+BLACK CURRENT              100
+
+LASSI                       350ML
+PLAIN LASSI                   40
+MANGO LASSI                   60
+VANILLA LASSI                 60
+BUTTER SCOTCH LASSI           60
+STRAWBERRY LASSI              60
+PISTA LASSI                   60
+OREO LASSI                    70
+
+BURGER VEG
+VEG BURGER                  65
+VEG CHEESE BURGER           80
+VEG SPICY BURGER            80
+PANEER BURGER               90
+PANEER CHEESE BURGER       100
+ALOO TIKKI BURGER           80
+CHILLY CHEESE BURGER        80
+CORN CHEESE BURGER          80
+PIZZA CHEESE BURGER        100
+MUSHROOM BURGER             80
+
+BURGER NON VEG
+EGG BURGER                  80
+EGG CHEESE BURGER           90
+MASALA EGG BURGER           90
+CHICKEN BURGER              100
+CRISPY CHICKEN BURGER       120
+
+BURGER SPECIAL
+ZINGER BURGER                  150
+CKN TOWER (OR) HATRIC BURGER   160
+CKN MEXICAN BURGER             170
+
+BREAD OMBELETTE
+PLAIN B/O              40
+VEG B/O                50
+VEG CHEESE B/O         60
+VEG SPICY B/O          60
+MUSHROOM B/O           70
+PANEER B/O             70
+MIXED MASALA B/O       70
+
+WRAPS VEG
+VEG WRAP                      50
+PANEER WRAP                   60
+CHILLY CHEESE PATTY WRAP      60
+MUSHROOM WRAP                 60
+MIXED MASALA WRAP             70
+CORN CHEESE WRAP              70
+MEXICAN WRAP                  90
+SIGNATURE WRAP                100
+
+WRAPS NON VEG
+EGG WRAP                   60
+EGG CHEESE WRAP            70
+BBQ CHICKEN WRAP          100
+
+FRIES
+FRENCH FRIES                  50
+VEG FINGERS (4 Pcs)           50
+SMILEY (6 Pcs)                50
+POTATO CHEESE SHOTS (5 Pcs)  60
+SAVORY WEDGES (10 Pcs)        60
+PERI PERI FRIES               60
+MAYO, SAUCE FRIES             70
+VEG NUGGETS (5 Pcs)           60
+CORN NUGGETS (5 Pcs)          70
+
+NON VEG BITES
+FISH FINGER (4 Pcs)             100
+CHICKEN POPS (15 Pcs)           100
+CHICKEN NUGGETS (8 Pcs)         100
+CHICKEN ROLL (4 Pcs)            100
+MINI CHICKEN SAUSAGE (5 Pcs)    150
+
+MOJITO
+LEMON MINT           70
+BLUE CURACAO         60
+PINEAPPLE            60
+KIWI                 60
+GREEN APPLE          60
+WATERMELON           60
+COCONUT              60
+GUAVA                60
+BLUE BERRY           60
+BLUE MINT            60
+
+SPECIAL MOJITO
+2 IN 1 MOJITO          80
+3 IN 1 MOJITO          80
+BLUE GREEN APPLE       80
+
+MOMOS STEAM
+VEG MOMOS            60
+MUSHROOM MOMOS       70
+CHICKEN MOMOS        90
+
+MOMOS FRIED
+VEG MOMOS            70
+MUSHROOM MOMOS       80
+CHICKEN MOMOS        100
+
+BROWNIES
+BROWNIE                       80
+BROWNIE WITH ICE CREAM       110
+SIZZLING BROWNIE             150
+
+MAGGI
+VEG MAGGI                50
+CHEESE MAGGI             60
+PERI PERI MAGGI          60
+EGG MAGGI                60
+PEPPER MAGGI             60
+PLAIN MAGGI              40
+PANEER / CORN MAGGI      60
+CHICKEN MAGGI            90
+
+DRY PASTA
+CHEESY PASTA            120
+SPICY PASTA             100
+VEG PASTA                80
+EGG PASTA               110
+CHICKEN PASTA           130
+WHITE SAUCE PASTA       140
+RED SAUCE PASTA         120
+PANEER PASTA            100
+MUSHROOM PASTA          100
+
+CUTLET
+VEG CUTLET (2 Pcs)                50
+HEART PANEER CUTLET (2 Pcs)       70
+
+SALAD
+FRUIT SALAD MINI                          60
+VEGETABLE SALAD COMBO                     60
+DIABETIC FRUIT BOWL                      150
+LIFE FRUIT BOWL                          160
+RADIATE FRUIT BOWL                       160
+2 BOILED EGGS WITH SPROUTS (100g)         70
+2 SCRAMBLED EGGS WITH SPROUTS (100g)      80
+SCRAMBLED EGG                             35
+______________________________________________________________________________
+
+PIZZA VEG
+PLAIN CHEESE PIZZA          70
+VEG PIZZA                    80
+VEG OVERLOAD PIZZA           90
+VEG SPICY PIZZA              90
+CORN PIZZA                  100
+MUSHROOM PIZZA              100
+PANEER PIZZA                100
+
+PIZZA NON VEG
+EGG PIZZA                        90
+EGG SPICY PIZZA                 100
+CHICKEN NUGGET PIZZA            190
+CHICKEN POPS PIZZA               200
+CHICKEN SAUSAGE PIZZA            200
+CHILLY CHICKEN PIZZA             210
+BBQ CHICKEN PIZZA               130
+FISH FINGER PIZZA                230
+CLASSIC CHICKEN PIZZA           120
+CRISPY CHICKEN PIZZA            140
+EVIL DEAD PIZZA                 150
+
+SANDWICHES VEG
+VEG SANDWICH                      50
+PANEER SANDWICH                   70
+MUSHROOM SANDWICH                 70
+MIXED MASALA SANDWICH             60
+VEG SPICY SANDWICH                 60
+VEG PATT SANDWICH                  70
+CORN SANDWICH                      50
+POTATO CORN SANDWICH               60
+PANEER CLASSIC SANDWICH            60
+MUSHROOM CORN SANDWICH             60
+PANEER CORN SANDWICH               60
+CHILLI PANEER SANDWICH             60
+FRENCH FRY CORN SANDWICH           70
+BBQ PANEER SANDWICH                70
+BBQ CORN SANDWICH                  70
+PATTY SANDWICH                     80
+CHOCO SANDWICH                     60
+
+SANDWICHES NON VEG
+EGG SCRAMBLED SANDWICH         70
+EGG SANDWICH                  60
+EGG SPICY SANDWICH            70
+CHICKEN SANDWICH             100
+CHICKEN SAUSAGE SANDWICH     100
+CHILLY CHICKEN SANDWICH      110
+BBQ CHICKEN SANDWICH         110
+FRENCH TOAST                  60
+CRISPY CHICKEN SANDWICH      120
+
+
+
+
+
+
+
+
+
+
+
+

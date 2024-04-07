@@ -1,0 +1,380 @@
+-- JUICE 700ML
+INSERT INTO products VALUES
+(1, 1, 'LEMON','description', 30, 1, 'LEMON.jpg'),
+(2, 1, 'LEMON GINGER','description', 35, 1, 'LEMON GINGER.jpg'),
+(3, 1, 'PAPAYA','description', 35, 1, 'PAPAYA.jpg'),
+(4, 1, 'LEMON SALT & SWEET','description', 35, 1, 'LEMON SALT SWEET.jpg'),
+(5, 1, 'LEMON PINEAPPLE','description', 40, 1, 'LEMON PINEAPPLE.jpg'),
+(6, 1, 'LEMON GRAPE','description', 40, 1, 'LEMON GRAPE.jpg'),
+(7, 1, 'LEMON MINT','description', 40, 1, 'LEMON MINT.jpg'),
+(8, 1, 'WATERMELON','description', 40, 1, 'WATERMELON.jpg'),
+(9, 1, 'AMLA JUICE','description', 50, 1, 'AMLA JUICE.jpg'),
+(10, 1, 'MUSKMELON','description', 50, 1, 'MUSKMELON.jpg'),
+(11, 1, 'PINEAPPLE','description', 50, 1, 'PINEAPPLE.jpg'),
+(12, 1, 'LEMON MINT PINEAPPLE','description', 60, 1, 'LEMON MINT PINEAPPLE.jpg'),
+(13, 1, 'GRAPE','description', 70, 1, 'GRAPE.jpg'),
+(14, 1, 'APPLE','description', 60, 1, 'APPLE.jpg'),
+(15, 1, 'ORANGE','description', 70, 1, 'ORANGE.jpg'),
+(16, 1, 'MOSAMBI','description', 60, 1, 'MOSAMBI.jpg'),
+(17, 1, 'FIG','description', 60, 1, 'FIG.jpg'),
+(18, 1, 'MANGO','description', 70, 1, 'MANGO.jpg'),
+(19, 1, 'BEETROOT','description', 70, 1, 'BEETROOT.jpg'),
+(20, 1, 'STRAWBWRRY','description', 80, 1, 'STRAWBWRRY.jpg'),
+(21, 1, 'STAR STRAWBERRY','description', 80, 1, 'STAR STRAWBERRY.jpg');
+
+-- JUICE 400ML
+INSERT INTO products VALUES
+(22, 2, 'ABC','description', 80, 1, 'ABC.jpg'),
+(23, 2, 'OBC','description', 80, 1, 'OBC.jpg'),
+(24, 2, 'CARROT','description', 70, 1, 'CARROT.jpg'),
+(25, 2, 'POMEGRANATE','description', 70, 1, 'POMEGRANATE.jpg');
+
+-- SPECIAL JUICES 500ML
+INSERT INTO products VALUES
+(26, 3, 'PINEAPPLE, WATERMELON & GRAPES','description', 80, 1, 'PINEAPPLE WATERMELON GRAPES.jpg'),
+(27, 3, 'WATERMELON & POMEGRANATE','description', 80, 1, 'WATERMELON POMEGRANATE.jpg'),
+(28, 3, 'CARROT & ORANGE','description', 80, 1, 'CARROT ORANGE.jpg'),
+(29, 3, 'PINEAPPLE & PAPAYA','description', 80, 1, 'PINEAPPLE PAPAYA.jpg'),
+(30, 3, 'ORANGE & STRAWBERRY','description', 90, 1, 'ORANGE STRAWBERRY.jpg');
+
+-- MILKSHAKE (FRUIT + MILK) 500ML
+INSERT INTO products VALUES
+(31, 4, 'MUSKMELON','description', NULL, 1, 'MUSKMELON SHAKE.jpg'),
+(32, 4, 'PAPAYA SHAKE','description', 50, 1, 'PAPAYA SHAKE.jpg'),
+(33, 4, 'ROSE MILK SHAKE','description', 50, 1, 'ROSE MILK SHAKE.jpg'),
+(34, 4, 'HORLICKS SHAKE','description', 50, 1, 'HORLICKS SHAKE.jpg'),
+(35, 4, 'BOOST SHAKE','description', 60, 1, 'BOOST SHAKE.jpg'),
+(36, 4, 'BANANA SHAKE','description', 60, 1, 'BANANA SHAKE.jpg'),
+(37, 4, 'POMEGRANATE SHAKE','description', 70, 1, 'POMEGRANATE SHAKE.jpg'),
+(38, 4, 'CHIKKU SHAKE','description', 70, 1, 'CHIKKU SHAKE.jpg'),
+(39, 4, 'FIG SHAKE','description', 70, 1, 'FIG SHAKE.jpg'),
+(40, 4, 'STRAWBERRY SHAKE','description', 80, 1, 'STRAWBERRY SHAKE.jpg'),
+(41, 4, 'MANGO SHAKE','description', 80, 1, 'MANGO SHAKE.jpg'),
+(42, 4, 'APPLE SHAKE','description', 80, 1, 'APPLE SHAKE.jpg'),
+(43, 4, 'KIWI SHAKE','description', 80, 1, 'KIWI SHAKE.jpg'),
+(44, 4, 'OREO MILKSHAKE','description', 80, 1, 'OREO MILKSHAKE.jpg'),
+(45, 4, 'MIX FRUIT SHAKE','description', 90, 1, 'MIX FRUIT SHAKE.jpg'),
+(46, 4, 'CARROT SHAKE','description', 90, 1, 'CARROT SHAKE.jpg');
+
+-- MILKSHAKE (FRUIT + MILK) 700ML
+INSERT INTO products VALUES
+(47, 5, 'MUSKMELON','description', 70, 1, 'MUSKMELON SHAKE.jpg'),
+(48, 5, 'PAPAYA SHAKE','description', 60, 1, 'PAPAYA SHAKE.jpg'),
+(49, 5, 'ROSE MILK SHAKE','description', 60, 1, 'ROSE MILK SHAKE.jpg'),
+(50, 5, 'HORLICKS SHAKE','description', 70, 1, 'HORLICKS SHAKE.jpg'),
+(51, 5, 'BOOST SHAKE','description', 70, 1, 'BOOST SHAKE.jpg'),
+(52, 5, 'BANANA SHAKE','description', 70, 1, 'BANANA SHAKE.jpg'),
+(53, 5, 'POMEGRANATE SHAKE','description', 80, 1, 'POMEGRANATE SHAKE.jpg'),
+(54, 5, 'CHIKKU SHAKE','description', 80, 1, 'CHIKKU SHAKE.jpg'),
+(55, 5, 'FIG SHAKE','description', 80, 1, 'FIG SHAKE.jpg'),
+(56, 5, 'STRAWBERRY SHAKE','description', 90, 1, 'STRAWBERRY SHAKE.jpg'),
+(57, 5, 'MANGO SHAKE','description', 90, 1, 'MANGO SHAKE.jpg'),
+(58, 5, 'APPLE SHAKE','description', 90, 1, 'APPLE SHAKE.jpg'),
+(59, 5, 'KIWI SHAKE','description', 90, 1, 'KIWI SHAKE.jpg'),
+(60, 5, 'OREO MILKSHAKE','description', 90, 1, 'OREO MILKSHAKE.jpg'),
+(61, 5, 'MIX FRUIT SHAKE','description', 100, 1, 'MIX FRUIT SHAKE.jpg'),
+(62, 5, 'CARROT SHAKE','description', 100, 1, 'CARROT SHAKE.jpg');
+
+-- SMOOTHE’S 350ML
+INSERT INTO products VALUES
+(63, 6, 'BANANA & BOOST SHARJAH','description', 60, 1, 'BANANA BOOST SHARJAH.jpg'),
+(64, 6, 'DATES, HONEY & BANANA SHARJAH','description', 70, 1, 'DATES HONEY BANANA SHARJAH.jpg'),
+(65, 6, 'BADAM, CASHEW NUT, BOOST & DATES SHARJAH','description', 90, 1, 'BADAM CASHEW NUT BOOST DATES SHARJAH.jpg'),
+(66, 6, 'PISTA, DRY GRAPES, BADAM & BANANA SHARJAH','description', 90, 1, 'PISTA DRY GRAPES BADAM BANANA SHARJAH.jpg'),
+(67, 6, 'CHOCO BERRY','description', 100, 1, 'CHOCO BERRY.jpg'),
+(68, 6, 'BUTTER CHOCO','description', 100, 1, 'BUTTER CHOCO.jpg'),
+(69, 6, 'COFFEE OREO','description', 110, 1, 'COFFEE OREO.jpg'),
+(70, 6, 'OREO BROWNIE','description', 110, 1, 'OREO BROWNIE.jpg'),
+(71, 6, 'MANGO BROWINE','description', 120, 1, 'MANGO BROWINE.jpg'),
+(72, 6, 'COFFEES BROWINE','description', 120, 1, 'COFFEES BROWINE.jpg'),
+(73, 6, 'OREO KITKAT','description', 120, 1, 'OREO KITKAT.jpg'),
+(74, 6, 'MANGO FOREST','description', 120, 1, 'MANGO FOREST.jpg'),
+(75, 6, 'KITKAT BROWNIE','description', 120, 1, 'KITKAT BROWNIE.jpg');
+
+-- TENDER COCONUT 500ML
+INSERT INTO products VALUES
+(76, 7, 'TENDER COCONUT SHAKE','description', 70, 1, 'TENDER COCONUT SHAKE.jpg'),
+(77, 7, 'SWEET LIME TENDER','description', 80, 1, 'SWEET LIME TENDER.jpg'),
+(78, 7, 'WATERMELON TENDER','description', 80, 1, 'WATERMELON TENDER.jpg'),
+(79, 7, 'MUSKMELON TENDER','description', 80, 1, 'MUSKMELON TENDER.jpg'),
+(80, 7, 'STRAWBERRY TENDER','description', 80, 1, 'STRAWBERRY TENDER.jpg'),
+(81, 7, 'PINEAPPLE TENDER','description', 80, 1, 'PINEAPPLE TENDER.jpg'),
+(82, 7, 'BANANA TENDER','description', 80, 1, 'BANANA TENDER.jpg');
+
+-- TENDER COCONUT 700ML
+INSERT INTO products VALUES
+(83, 8, 'TENDER COCONUT SHAKE','description', 90, 1, 'TENDER COCONUT SHAKE.jpg'),
+(84, 8, 'SWEET LIME TENDER','description', 99, 1, 'SWEET LIME TENDER.jpg'),
+(85, 8, 'WATERMELON TENDER','description', 99, 1, 'WATERMELON TENDER.jpg'),
+(86, 8, 'MUSKMELON TENDER','description', 99, 1, 'MUSKMELON TENDER.jpg'),
+(87, 8, 'STRAWBERRY TENDER','description', 99, 1, 'STRAWBERRY TENDER.jpg'),
+(88, 8, 'PINEAPPLE TENDER','description', 99, 1, 'PINEAPPLE TENDER.jpg'),
+(89, 8, 'BANANA TENDER','description', 99, 1, 'BANANA TENDER.jpg');
+
+-- FALOODA
+INSERT INTO products VALUES
+(90, 9, 'NORMAL FALOODA','description', 90, 1, 'NORMAL FALOODA.jpg'),
+(91, 9, 'SPL. FALOODA','description', 110, 1, 'SPL FALOODA.jpg'),
+(92, 9, 'DRY FRUITS FALOODA','description', 149, 1, 'DRY FRUITS FALOODA.jpg'),
+(93, 9, 'OREO FALOODA','description', 110, 1, 'OREO FALOODA.jpg'),
+(94, 9, 'KITKAT OREO FALOODA','description', 120, 1, 'KITKAT OREO FALOODA.jpg'),
+(95, 9, 'KAJU KISMIS FALOODA','description', 130, 1, 'KAJU KISMIS FALOODA.jpg'),
+(96, 9, 'FRUIT FALOODA','description', 130, 1, 'FRUIT FALOODA.jpg'),
+(97, 9, 'BADAM FALOODA','description', 140, 1, 'BADAM FALOODA.jpg'),
+(98, 9, 'CHOCOLATE FALOODA','description', 150, 1, 'CHOCOLATE FALOODA.jpg'),
+(99, 9, 'MIXED NUTS FALOODA','description', 150, 1, 'MIXED NUTS FALOODA.jpg'),
+(100, 9, 'HONEY NUTS FALOODA','description', 120, 1, 'HONEY NUTS FALOODA.jpg'),
+(101, 9, 'BADAM PISTA FALOODA','description', 120, 1, 'BADAM PISTA FALOODA.jpg'),
+(102, 9, 'BOMBAY FALOODA','description', 130, 1, 'BOMBAY FALOODA.jpg'),
+(103, 9, 'MALABAR FALOODA','description', 130, 1, 'MALABAR FALOODA.jpg'),
+(104, 9, 'KASHMIR FALOODA','description', 140, 1, 'KASHMIR FALOODA.jpg');
+
+-- COFFEE CLASSIC
+INSERT INTO products VALUES
+(105, 10, 'COLD COFFEE','description', 79, 1, 'COLD COFFEE.jpg'),
+(106, 10, 'COLD COFFEE WITH ICE CREAM','description', 89, 1, 'COLD COFFEE WITH ICE CREAM.jpg'),
+(107, 10, 'CHOCOLATE COLD COFFEE','description', 99, 1, 'CHOCOLATE COLD COFFEE.jpg'),
+(108, 10, 'CARAMEL COLD COFFEE','description', 110, 1, 'CARAMEL COLD COFFEE.jpg');
+
+-- ICE CREAM (DOUBLE SCOOP)
+INSERT INTO products VALUES
+(109, 11, 'VANILLA','description', 70, 1, 'VANILLA.jpg'),
+(110, 11, 'STRAWBERRY','description', 75, 1, 'STRAWBERRY.jpg'),
+(111, 11, 'CHOCOLATE','description', 75, 1, 'CHOCOLATE.jpg'),
+(112, 11, 'BUTTER SCOTCH','description', 75, 1, 'BUTTER SCOTCH.jpg'),
+(113, 11, 'PISTA','description', 75, 1, 'PISTA.jpg'),
+(114, 11, 'MANGO','description', 75, 1, 'MANGO.jpg'),
+(115, 11, 'BLACK CURRENT','description', 75, 1, 'BLACK CURRENT.jpg'),
+(116, 11, 'ICREAM FRUIT SALAD','description', 60, 1, 'ICREAM FRUIT SALAD.jpg'),
+(117, 11, 'JUICE IN JUG SPL','description', 99, 1, 'JUICE IN JUG SPL.jpg');
+
+-- ICE CREAM MILKSHAKE 400ML
+INSERT INTO products VALUES
+(118, 12, 'VANILLA','description', 70, 1, 'VANILLA.jpg'),
+(119, 12, 'STRAWBERRY','description', 70, 1, 'STRAWBERRY.jpg'),
+(120, 12, 'BUTTER SCOTCH','description', 90, 1, 'BUTTER SCOTCH.jpg'),
+(121, 12, 'MANGO','description', 90, 1, 'MANGO.jpg'),
+(122, 12, 'PISTA','description', 90, 1, 'PISTA.jpg'),
+(123, 12, 'CHOCOLATE','description', 90, 1, 'CHOCOLATE.jpg'),
+(124, 12, 'BLUEBERRY','description', 90, 1, 'BLUEBERRY.jpg'),
+(125, 12, 'FIG. HONEY SHAKE','description', 80, 1, 'FIG HONEY SHAKE.jpg'),
+(126, 12, 'HONEY DATES','description', 90, 1, 'HONEY DATES.jpg'),
+(127, 12, 'DRY FRUIT SHAKE','description', 110, 1, 'DRY FRUIT SHAKE.jpg'),
+(128, 12, 'BROWNIE SHAKE','description', 110, 1, 'BROWNIE SHAKE.jpg'),
+(129, 12, 'BLACK CURRENT','description', 100, 1, 'BLACK CURRENT.jpg');
+
+-- LASSI 350ML
+INSERT INTO products VALUES
+(130, 13, 'PLAIN LASSI','description', 40, 1, 'PLAIN LASSI.jpg'),
+(131, 13, 'MANGO LASSI','description', 60, 1, 'MANGO LASSI.jpg'),
+(132, 13, 'VANILLA LASSI','description', 60, 1, 'VANILLA LASSI.jpg'),
+(133, 13, 'BUTTER SCOTCH LASSI','description', 60, 1, 'BUTTER SCOTCH LASSI.jpg'),
+(134, 13, 'STRAWBERRY LASSI','description', 60, 1, 'STRAWBERRY LASSI.jpg'),
+(135, 13, 'PISTA LASSI','description', 60, 1, 'PISTA LASSI.jpg'),
+(136, 13, 'OREO LASSI','description', 70, 1, 'OREO LASSI.jpg');
+
+-- BURGER VEG
+INSERT INTO products VALUES
+(137, 14, 'VEG BURGER','description', 65, 1, 'VEG BURGER.jpg'),
+(138, 14, 'VEG CHEESE BURGER','description', 80, 1, 'VEG CHEESE BURGER.jpg'),
+(139, 14, 'VEG SPICY BURGER','description', 80, 1, 'VEG SPICY BURGER.jpg'),
+(140, 14, 'PANEER BURGER','description', 90, 1, 'PANEER BURGER.jpg'),
+(141, 14, 'PANEER CHEESE BURGER','description', 100, 1, 'PANEER CHEESE BURGER.jpg'),
+(142, 14, 'ALOO TIKKI BURGER','description', 80, 1, 'ALOO TIKKI BURGER.jpg'),
+(143, 14, 'CHILLY CHEESE BURGER','description', 80, 1, 'CHILLY CHEESE BURGER.jpg'),
+(144, 14, 'CORN CHEESE BURGER','description', 80, 1, 'CORN CHEESE BURGER.jpg'),
+(145, 14, 'PIZZA CHEESE BURGER','description', 100, 1, 'PIZZA CHEESE BURGER.jpg'),
+(146, 14, 'MUSHROOM BURGER','description', 80, 1, 'MUSHROOM BURGER.jpg');
+
+-- BURGER NON VEG
+INSERT INTO products VALUES
+(147, 15, 'EGG BURGER','description', 80, 1, 'EGG BURGER.jpg'),
+(148, 15, 'EGG CHEESE BURGER','description', 90, 1, 'EGG CHEESE BURGER.jpg'),
+(149, 15, 'MASALA EGG BURGER','description', 90, 1, 'MASALA EGG BURGER.jpg'),
+(150, 15, 'CHICKEN BURGER','description', 100, 1, 'CHICKEN BURGER.jpg'),
+(151, 15, 'CRISPY CHICKEN BURGER','description', 120, 1, 'CRISPY CHICKEN BURGER.jpg');
+
+-- BURGER SPECIAL
+INSERT INTO products VALUES
+(152, 16, 'ZINGER BURGER','description', 150, 1, 'ZINGER BURGER.jpg'),
+(153, 16, 'CKN TOWER (OR) HATRIC BURGER','description', 160, 1, 'CKN TOWER HATRIC BURGER.jpg'),
+(154, 16, 'CKN MEXICAN BURGER','description', 170, 1, 'CKN MEXICAN BURGER.jpg');
+
+-- BREAD OMBELETTE
+INSERT INTO products VALUES
+(155, 17, 'PLAIN B/O','description', 40, 1, 'PLAIN B-O.jpg'),
+(156, 17, 'VEG B/O','description', 50, 1, 'VEG B-O.jpg'),
+(157, 17, 'VEG CHEESE B/O','description', 60, 1, 'VEG CHEESE B-O.jpg'),
+(158, 17, 'VEG SPICY B/O','description', 60, 1, 'VEG SPICY B-O.jpg'),
+(159, 17, 'MUSHROOM B/O','description', 70, 1, 'MUSHROOM B-O.jpg'),
+(160, 17, 'PANEER B/O','description', 70, 1, 'PANEER B-O.jpg'),
+(161, 17, 'MIXED MASALA B/O','description', 70, 1, 'MIXED MASALA B-O.jpg');
+
+-- WRAPS VEG
+INSERT INTO products VALUES
+(162, 18, 'VEG WRAP','description', 50, 1, 'VEG WRAP.jpg'),
+(163, 18, 'PANEER WRAP','description', 60, 1, 'PANEER WRAP.jpg'),
+(164, 18, 'CHILLY CHEESE PATTY WRAP','description', 60, 1, 'CHILLY CHEESE PATTY WRAP.jpg'),
+(165, 18, 'MUSHROOM WRAP','description', 60, 1, 'MUSHROOM WRAP.jpg'),
+(166, 18, 'MIXED MASALA WRAP','description', 70, 1, 'MIXED MASALA WRAP.jpg'),
+(167, 18, 'CORN CHEESE WRAP','description', 70, 1, 'CORN CHEESE WRAP.jpg'),
+(168, 18, 'MEXICAN WRAP','description', 90, 1, 'MEXICAN WRAP.jpg'),
+(169, 18, 'SIGNATURE WRAP','description', 100, 1, 'SIGNATURE WRAP.jpg');
+
+-- WRAPS NON VEG
+INSERT INTO products VALUES
+(170, 19, 'EGG WRAP','description', 60, 1, 'EGG WRAP.jpg'),
+(171, 19, 'EGG CHEESE WRAP','description', 70, 1, 'EGG CHEESE WRAP.jpg'),
+(172, 19, 'BBQ CHICKEN WRAP','description', 100, 1, 'BBQ CHICKEN WRAP.jpg');
+
+-- FRIES
+INSERT INTO products VALUES
+(173, 20, 'FRENCH FRIES','description', 50, 1, 'FRENCH FRIES.jpg'),
+(174, 20, 'VEG FINGERS (4 Pcs)','description', 50, 1, 'VEG FINGERS.jpg'),
+(175, 20, 'SMILEY (6 Pcs)','description', 50, 1, 'SMILEY.jpg'),
+(176, 20, 'POTATO CHEESE SHOTS (5 Pcs)','description', 60, 1, 'POTATO CHEESE SHOTS.jpg'),
+(177, 20, 'SAVORY WEDGES (10 Pcs)','description', 60, 1, 'SAVORY WEDGES.jpg'),
+(178, 20, 'PERI PERI FRIES','description', 60, 1, 'PERI PERI FRIES.jpg'),
+(179, 20, 'MAYO, SAUCE FRIES','description', 70, 1, 'MAYO SAUCE FRIES.jpg'),
+(180, 20, 'VEG NUGGETS (5 Pcs)','description', 60, 1, 'VEG NUGGETS.jpg'),
+(181, 20, 'CORN NUGGETS (5 Pcs)','description', 70, 1, 'CORN NUGGETS.jpg');
+
+-- NON VEG BITES
+INSERT INTO products VALUES
+(182, 21, 'FISH FINGER (4 Pcs)','description', 100, 1, 'FISH FINGER.jpg'),
+(183, 21, 'CHICKEN POPS (15 Pcs)','description', 100, 1, 'CHICKEN POPS.jpg'),
+(184, 21, 'CHICKEN NUGGETS (8 Pcs)','description', 100, 1, 'CHICKEN NUGGETS.jpg'),
+(185, 21, 'CHICKEN ROLL (4 Pcs)','description', 100, 1, 'CHICKEN ROLL.jpg'),
+(186, 21, 'MINI CHICKEN SAUSAGE (5 Pcs)','description', 150, 1, 'MINI CHICKEN SAUSAGE.jpg');
+
+-- MOJITO
+INSERT INTO products VALUES
+(187, 22, 'LEMON MINT','description', 70, 1, 'LEMON MINT MOJITO.jpg'),
+(188, 22, 'BLUE CURACAO','description', 60, 1, 'BLUE CURACAO MOJITO.jpg'),
+(189, 22, 'PINEAPPLE','description', 60, 1, 'PINEAPPLE MOJITO.jpg'),
+(190, 22, 'KIWI','description', 60, 1, 'KIWI MOJITO.jpg'),
+(191, 22, 'GREEN APPLE','description', 60, 1, 'GREEN APPLE MOJITO.jpg'),
+(192, 22, 'WATERMELON','description', 60, 1, 'WATERMELON MOJITO.jpg'),
+(193, 22, 'COCONUT','description', 60, 1, 'COCONUT MOJITO.jpg'),
+(194, 22, 'GUAVA','description', 60, 1, 'GUAVA MOJITO.jpg'),
+(195, 22, 'BLUE BERRY','description', 60, 1, 'BLUE BERRY MOJITO.jpg'),
+(196, 22, 'BLUE MINT','description', 60, 1, 'BLUE MINT MOJITO.jpg');
+
+-- SPECIAL MOJITO
+INSERT INTO products VALUES
+(197, 23, '2 IN 1 MOJITO','description', 80, 1, '2 IN 1 MOJITO.jpg'),
+(198, 23, '3 IN 1 MOJITO','description', 80, 1, '3 IN 1 MOJITO.jpg'),
+(199, 23, 'BLUE GREEN APPLE','description', 80, 1, 'BLUE GREEN APPLE MOJITO.jpg');
+
+-- MOMOS STEAM
+INSERT INTO products VALUES
+(200, 24, 'VEG MOMOS','description', 60, 1, 'VEG MOMOS STEAM.jpg'),
+(201, 24, 'MUSHROOM MOMOS','description', 70, 1, 'MUSHROOM MOMOS STEAM.jpg'),
+(202, 24, 'CHICKEN MOMOS','description', 90, 1, 'CHICKEN MOMOS STEAM.jpg');
+
+-- MOMOS FRIED
+INSERT INTO products VALUES
+(203, 25, 'VEG MOMOS','description', 70, 1, 'VEG MOMOS FRIED.jpg'),
+(204, 25, 'MUSHROOM MOMOS','description', 80, 1, 'MUSHROOM MOMOS FRIED.jpg'),
+(205, 25, 'CHICKEN MOMOS','description', 100, 1, 'CHICKEN MOMOS FRIED.jpg');
+
+-- BROWNIES
+INSERT INTO products VALUES
+(206, 26, 'BROWNIE','description', 80, 1, 'BROWNIE.jpg'),
+(207, 26, 'BROWNIE WITH ICE CREAM','description', 110, 1, 'BROWNIE WITH ICE CREAM.jpg'),
+(208, 26, 'SIZZLING BROWNIE','description', 150, 1, 'SIZZLING BROWNIE.jpg');
+
+-- MAGGI
+INSERT INTO products VALUES
+(209, 27, 'VEG MAGGI','description', 50, 1, 'VEG MAGGI.jpg'),
+(210, 27, 'CHEESE MAGGI','description', 60, 1, 'CHEESE MAGGI.jpg'),
+(211, 27, 'PERI PERI MAGGI','description', 60, 1, 'PERI PERI MAGGI.jpg'),
+(212, 27, 'EGG MAGGI','description', 60, 1, 'EGG MAGGI.jpg'),
+(213, 27, 'PEPPER MAGGI','description', 60, 1, 'PEPPER MAGGI.jpg'),
+(214, 27, 'PLAIN MAGGI','description', 40, 1, 'PLAIN MAGGI.jpg'),
+(215, 27, 'PANEER / CORN MAGGI','description', 60, 1, 'PANEER - CORN MAGGI.jpg'),
+(216, 27, 'CHICKEN MAGGI','description', 90, 1, 'CHICKEN MAGGI.jpg');
+
+-- DRY PASTA
+INSERT INTO products VALUES
+(217, 28, 'CHEESY PASTA','description', 120, 1, 'CHEESY PASTA.jpg'),
+(218, 28, 'SPICY PASTA','description', 100, 1, 'SPICY PASTA.jpg'),
+(219, 28, 'VEG PASTA','description', 80, 1, 'VEG PASTA.jpg'),
+(220, 28, 'EGG PASTA','description', 110, 1, 'EGG PASTA.jpg'),
+(221, 28, 'CHICKEN PASTA','description', 130, 1, 'CHICKEN PASTA.jpg'),
+(222, 28, 'WHITE SAUCE PASTA','description', 140, 1, 'WHITE SAUCE PASTA.jpg'),
+(223, 28, 'RED SAUCE PASTA','description', 120, 1, 'RED SAUCE PASTA.jpg'),
+(224, 28, 'PANEER PASTA','description', 100, 1, 'PANEER PASTA.jpg'),
+(225, 28, 'MUSHROOM PASTA','description', 100, 1, 'MUSHROOM PASTA.jpg');
+
+-- CUTLET
+INSERT INTO products VALUES
+(226, 29, 'VEG CUTLET (2 Pcs)','description', 50, 1, 'VEG CUTLET.jpg'),
+(227, 29, 'HEART PANEER CUTLET (2 Pcs)','description', 70, 1, 'HEART PANEER CUTLET.jpg');
+
+-- SALAD
+INSERT INTO products VALUES
+(228, 30, 'FRUIT SALAD MINI','description', 60, 1, 'FRUIT SALAD MINI.jpg'),
+(229, 30, 'VEGETABLE SALAD COMBO','description', 60, 1, 'VEGETABLE SALAD COMBO.jpg'),
+(230, 30, 'DIABETIC FRUIT BOWL','description', 150, 1, 'DIABETIC FRUIT BOWL.jpg'),
+(231, 30, 'LIFE FRUIT BOWL','description', 160, 1, 'LIFE FRUIT BOWL.jpg'),
+(232, 30, 'RADIATE FRUIT BOWL','description', 160, 1, 'RADIATE FRUIT BOWL.jpg'),
+(233, 30, '2 BOILED EGGS WITH SPROUTS (100g)','description', 70, 1, 'BOILED EGGS WITH SPROUTS.jpg'),
+(234, 30, '2 SCRAMBLED EGGS WITH SPROUTS (100g)','description', 80, 1, 'SCRAMBLED EGGS WITH SPROUTS.jpg'),
+(235, 30, 'SCRAMBLED EGG','description', 35, 1, 'SCRAMBLED EGG.jpg');
+
+-- PIZZA VEG
+INSERT INTO products VALUES
+(236, 31, 'PLAIN CHEESE PIZZA','description', 70, 1, 'PLAIN CHEESE PIZZA.jpg'),
+(237, 31, 'VEG PIZZA','description', 80, 1, 'VEG PIZZA.jpg'),
+(238, 31, 'VEG OVERLOAD PIZZA','description', 90, 1, 'VEG OVERLOAD PIZZA.jpg'),
+(239, 31, 'VEG SPICY PIZZA','description', 90, 1, 'VEG SPICY PIZZA.jpg'),
+(240, 31, 'CORN PIZZA','description', 100, 1, 'CORN PIZZA.jpg'),
+(241, 31, 'MUSHROOM PIZZA','description', 100, 1, 'MUSHROOM PIZZA.jpg'),
+(242, 31, 'PANEER PIZZA','description', 100, 1, 'PANEER PIZZA.jpg');
+
+-- PIZZA NON VEG
+INSERT INTO products VALUES
+(243, 32, 'EGG PIZZA','description', 90, 1, 'EGG PIZZA.jpg'),
+(244, 32, 'EGG SPICY PIZZA','description', 100, 1, 'EGG SPICY PIZZA.jpg'),
+(245, 32, 'CHICKEN NUGGET PIZZA','description', 190, 1, 'CHICKEN NUGGET PIZZA.jpg'),
+(246, 32, 'CHICKEN POPS PIZZA','description', 200, 1, 'CHICKEN POPS PIZZA.jpg'),
+(247, 32, 'CHICKEN SAUSAGE PIZZA','description', 200, 1, 'CHICKEN SAUSAGE PIZZA.jpg'),
+(248, 32, 'CHILLY CHICKEN PIZZA','description', 210, 1, 'CHILLY CHICKEN PIZZA.jpg'),
+(249, 32, 'BBQ CHICKEN PIZZA','description', 130, 1, 'BBQ CHICKEN PIZZA.jpg'),
+(250, 32, 'FISH FINGER PIZZA','description', 230, 1, 'FISH FINGER PIZZA.jpg'),
+(251, 32, 'CLASSIC CHICKEN PIZZA','description', 120, 1, 'CLASSIC CHICKEN PIZZA.jpg'),
+(252, 32, 'CRISPY CHICKEN PIZZA','description', 140, 1, 'CRISPY CHICKEN PIZZA.jpg'),
+(253, 32, 'EVIL DEAD PIZZA','description', 150, 1, 'EVIL DEAD PIZZA.jpg');
+
+-- SANDWICHES VEG
+INSERT INTO products VALUES
+(254, 33, 'VEG SANDWICH','description', 50, 1, 'VEG SANDWICH.jpg'),
+(255, 33, 'PANEER SANDWICH','description', 70, 1, 'PANEER SANDWICH.jpg'),
+(256, 33, 'MUSHROOM SANDWICH','description', 70, 1, 'MUSHROOM SANDWICH.jpg'),
+(257, 33, 'MIXED MASALA SANDWICH','description', 60, 1, 'MIXED MASALA SANDWICH.jpg'),
+(258, 33, 'VEG SPICY SANDWICH','description', 60, 1, 'VEG SPICY SANDWICH.jpg'),
+(259, 33, 'VEG PATT SANDWICH','description', 70, 1, 'VEG PATT SANDWICH.jpg'),
+(260, 33, 'CORN SANDWICH','description', 50, 1, 'CORN SANDWICH.jpg'),
+(261, 33, 'POTATO CORN SANDWICH','description', 60, 1, 'POTATO CORN SANDWICH.jpg'),
+(262, 33, 'PANEER CLASSIC SANDWICH','description', 60, 1, 'PANEER CLASSIC SANDWICH.jpg'),
+(263, 33, 'MUSHROOM CORN SANDWICH','description', 60, 1, 'MUSHROOM CORN SANDWICH.jpg'),
+(264, 33, 'PANEER CORN SANDWICH','description', 60, 1, 'PANEER CORN SANDWICH.jpg'),
+(265, 33, 'CHILLI PANEER SANDWICH','description', 60, 1, 'CHILLI PANEER SANDWICH.jpg'),
+(266, 33, 'FRENCH FRY CORN SANDWICH','description', 70, 1, 'FRENCH FRY CORN SANDWICH.jpg'),
+(267, 33, 'BBQ PANEER SANDWICH','description', 70, 1, 'BBQ PANEER SANDWICH.jpg'),
+(268, 33, 'BBQ CORN SANDWICH','description', 70, 1, 'BBQ CORN SANDWICH.jpg'),
+(269, 33, 'PATTY SANDWICH','description', 80, 1, 'PATTY SANDWICH.jpg'),
+(270, 33, 'CHOCO SANDWICH','description', 60, 1, 'CHOCO SANDWICH.jpg');
+
+-- SANDWICHES NON VEG
+INSERT INTO products VALUES
+(271, 34, 'EGG SCRAMBLED SANDWICH','description', 70, 1, 'EGG SCRAMBLED SANDWICH.jpg'),
+(272, 34, 'EGG SANDWICH','description', 60, 1, 'EGG SANDWICH.jpg'),
+(273, 34, 'EGG SPICY SANDWICH','description', 70, 1, 'EGG SPICY SANDWICH.jpg'),
+(274, 34, 'CHICKEN SANDWICH','description', 100, 1, 'CHICKEN SANDWICH.jpg'),
+(275, 34, 'CHICKEN SAUSAGE SANDWICH','description', 100, 1, 'CHICKEN SAUSAGE SANDWICH.jpg'),
+(276, 34, 'CHILLY CHICKEN SANDWICH','description', 110, 1, 'CHILLY CHICKEN SANDWICH.jpg'),
+(277, 34, 'BBQ CHICKEN SANDWICH','description', 110, 1, 'BBQ CHICKEN SANDWICH.jpg'),
+(278, 34, 'FRENCH TOAST','description', 60, 1, 'FRENCH TOAST.jpg'),
+(279, 34, 'CRISPY CHICKEN SANDWICH','description', 120, 1, 'CRISPY CHICKEN SANDWICH.jpg');
